@@ -18,6 +18,8 @@
   "homepage": "https://github.com/myyrakle/nodejs-with-foreigner#readme",
   "dependencies": {
     "cross-env": "^7.0.3",
+    "ffi-napi": "^4.0.3",
+    "ref-struct-napi": "^1.1.1",
     "typescript": "^4.9.4"
   }
 }

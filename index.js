@@ -1,5 +1,5 @@
-const ffi = require("ffi");
-const Struct = require("ref-struct");
+const ffi = require("ffi-napi");
+const Struct = require("ref-struct-napi");
 
 const GoString = Struct({
   p: "string",
