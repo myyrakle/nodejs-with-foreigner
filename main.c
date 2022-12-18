@@ -1,5 +1,5 @@
 #include <stdio.h> 
-#include "./go/go-ffi.h"
+#include "./libgoffi.h"
 
 int main() {
     int foo = Sub(10, 20);
