@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-with-foreigner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myyrakle/nodejs-with-foreigner.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/myyrakle/nodejs-with-foreigner/issues"
+  },
+  "homepage": "https://github.com/myyrakle/nodejs-with-foreigner#readme"
+}
