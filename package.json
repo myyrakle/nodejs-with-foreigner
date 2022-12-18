@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/myyrakle/nodejs-with-foreigner/issues"
   },
-  "homepage": "https://github.com/myyrakle/nodejs-with-foreigner#readme"
+  "homepage": "https://github.com/myyrakle/nodejs-with-foreigner#readme",
+  "dependencies": {
+    "cross-env": "^7.0.3",
+    "typescript": "^4.9.4"
+  }
 }
